@@ -91,31 +91,47 @@ There are **no trackers, no analytics, and no ads.**
 
 ---
 
-## 9. Data Export & Import
+## 9. Security
+
+All app data is stored in Android's private app sandbox, which prevents other apps from accessing it. We do not transmit any data over a network, so there is no risk of interception in transit. Standard Android OS security protections apply.
+
+---
+
+## 10. Data Export & Import
 
 The Sessions screen provides an optional CSV export/import feature. Exported files are saved to a location you choose on your device and are **never uploaded automatically**. You are in full control of any data you export.
 
 ---
 
-## 10. Children's Privacy
+## 11. External Links — Support ("Buy Me a Coffee")
+
+The app contains an optional "Buy Me a Coffee" link that opens the Ko-fi website (ko-fi.com) in your device's browser. This is a voluntary, one-time external link. We do not share any of your app data with Ko-fi. Any information you provide on the Ko-fi website is governed by Ko-fi's own privacy policy.
+
+---
+
+## 12. Children's Privacy
 
 The app is not directed at children under 13. We do not knowingly collect any data from children. Because all data stays on-device, there is no mechanism by which children's data could be collected or shared.
 
 ---
 
-## 11. Your Rights
+## 13. Your Rights (GDPR / CCPA / International Users)
 
-Because no personal data is collected or stored off your device, traditional data-subject rights (access, portability, correction, erasure) are satisfied entirely through the on-device deletion methods described in **Section 4** above. If you have any questions, contact us at **AppHux@gmail.com** and we will respond within 30 days.
+Because the app stores all data exclusively on your device and does not transmit any personal information to the developer or any third party:
+
+- **EU / EEA users (GDPR):** No personal data is processed by us. Your rights of access, rectification, erasure, restriction, and portability are exercised through the on-device deletion methods in **Section 4**.
+- **California users (CCPA):** We do not sell personal information. No personal data is shared with or disclosed to third parties.
+- **All users:** You may contact us at AppHux@gmail.com with any privacy-related questions and we will respond within 30 days.
 
 ---
 
-## 12. Changes to This Policy
+## 14. Changes to This Policy
 
 This privacy policy may be updated from time to time. The effective date at the top of this document will reflect the date of the latest revision. Continued use of the app after an update constitutes your acceptance of the revised policy.
 
 ---
 
-## 13. Contact
+## 15. Contact
 
 If you have any questions or concerns about this privacy policy, please contact:
 
