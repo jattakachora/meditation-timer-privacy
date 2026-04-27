@@ -1,4 +1,4 @@
-# Privacy Policy — Meditation Timer
+# Privacy Policy — Meditation Timer – No Ads
 
 **Effective date:** April 24, 2026  
 **Developer contact:** AppHux@gmail.com
